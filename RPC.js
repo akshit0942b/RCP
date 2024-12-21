@@ -66,7 +66,7 @@ playGame = (userChoice) =>
     
 }
 
-
+// let user = 0  this is a new change for testing our git commands
 choices.forEach((choice) => {
     choice.addEventListener("click", () =>
     {
